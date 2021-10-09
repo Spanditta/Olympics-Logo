@@ -1,0 +1,9 @@
+body{
+    background-image: url(https://www.liveenhanced.com/wp-content/uploads/2021/07/Tokyo-2020-Olympics-4.jpg);
+}
+
+#myCanvas{
+    border-width: 50px;
+    background-color: rgb(255, 255, 255);
+    border-style:ridge;
+}
